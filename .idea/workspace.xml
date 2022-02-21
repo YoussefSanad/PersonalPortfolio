@@ -4,6 +4,8 @@
     <list default="true" id="e17a36ae-7fc6-4984-af1f-9f5dd05b6a16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/Ansel-Cv.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="251YUzsivNbu4iOpNGoh7oXHCiM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -39,7 +50,10 @@
       <updated>1644696080140</updated>
       <workItem from="1644696082464" duration="2409000" />
       <workItem from="1644775690508" duration="2622000" />
-      <workItem from="1645127926677" duration="361000" />
+      <workItem from="1645127926677" duration="599000" />
+      <workItem from="1645128765634" duration="438000" />
+      <workItem from="1645129216764" duration="2420000" />
+      <workItem from="1645430441319" duration="342000" />
     </task>
     <servers />
   </component>
@@ -57,5 +71,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
